@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Servicing Suite",
+  "description": "Professional hardware utility, diagnostics, flashing, and service management workstation via USB OTG serial and protocol bridges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
